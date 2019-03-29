@@ -1,4 +1,4 @@
 class shoe
 
-  def initalize
+  #def initalize
 end
